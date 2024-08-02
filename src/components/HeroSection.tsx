@@ -15,14 +15,16 @@ import Hero5 from "./../../public/hero (5).webp";
 const HeroSection = () => {
   return (
     <div className=" relative">
-      {/* <div className="absolute top-0 bottom-0 z-20 left-0 right-0 bg-black/50  text-white  flex flex-col justify-center items-center gap-3 px-1 ">
-        <h2 className="text-xl sm:text-4xl md:text-5xl lg:text-6xl font-black uppercase Akira">
-          Swami Vivekananda
-        </h2>
-        <h3 className="text-sm sm:text-lg md:text-2xl lg:text-4xl font-semibold uppercase Akira text-center">
-          Institution and Yoga Foundation
-        </h3>
-      </div> */}
+      <div className="absolute top-40 bottom-0 z-20 left-0 right-0 text-white flex flex-col justify-center items-center gap-3 px-1 ">
+        <div className="bg-black/70 w-full text-center p-4">
+          <h2 className="text-xl sm:text-4xl md:text-5xl lg:text-6xl font-black uppercase Akira">
+            Swami Vivekananda
+          </h2>
+          <h3 className="text-sm sm:text-lg md:text-2xl lg:text-4xl font-semibold uppercase Akira text-center">
+            Institution and Yoga Foundation
+          </h3>
+        </div>
+      </div>
       <Carousel
         className=" "
         plugins={[

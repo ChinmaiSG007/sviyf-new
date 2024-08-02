@@ -18,6 +18,7 @@ import yogaClipart2 from "/yoga-clipart (2).png";
 import yogaClipart3 from "/yoga-clipart (1).svg";
 
 import ScrollButton from "@/components/ScrollButton";
+import SocialIcons from "@/components/SocialIcons";
 
 const HomePage = () => {
   return (
@@ -30,7 +31,10 @@ const HomePage = () => {
       <div className=" z-30">
         <ScrollButton />
       </div>
-      <div className=" px-4 py-2 lg:px-24 min-h-full">
+      <div>
+        <SocialIcons />
+      </div>
+      <div className=" px-8 py-2 lg:px-24 min-h-full">
         {/* About - us */}
         <div
           className="rounded py-10 flex flex-col items-center gap-10 cursor-default"
