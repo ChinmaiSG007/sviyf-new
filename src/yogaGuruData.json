@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "name": "Paramahamsa Madhavdas",
+    "wiki-link": "https://en.wikipedia.org/wiki/Paramahamsa_Madhavdas",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Paramahamsa_Madhavdasji.jpg/220px-Paramahamsa_Madhavdasji.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ramakrishna Paramahansa",
+    "wiki-link": "https://en.wikipedia.org/wiki/Ramakrishna",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ramakrishna.jpg/220px-Ramakrishna.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Swami Sri Yukteswar Giri",
+    "wiki-link": "https://en.wikipedia.org/wiki/Swami_Sri_Yukteswar_Giri",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Swami_Sri_Yukteswar_Pose.jpg/220px-Swami_Sri_Yukteswar_Pose.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Swami Vivekananda",
+    "wiki-link": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Swami_Vivekananda-1893-09-signed.jpg/220px-Swami_Vivekananda-1893-09-signed.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sri Aurobindo",
+    "wiki-link": "https://en.wikipedia.org/wiki/Sri_Aurobindo",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sri_aurobindo.jpg/220px-Sri_aurobindo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mirra Alfassa",
+    "wiki-link": "https://en.wikipedia.org/wiki/Mirra_Alfassa",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Divine-mother_%28mirra_alfassa%29.jpg/220px-Divine-mother_%28mirra_alfassa%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nigamananda Paramahansa",
+    "wiki-link": "https://en.wikipedia.org/wiki/Nigamananda_Paramahansa",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Thakur_nigamananda%28bw%29.jpg/220px-Thakur_nigamananda%28bw%29.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Swami Kuvalayananda",
+    "wiki-link": "https://en.wikipedia.org/wiki/Swami_Kuvalayananda",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Swami_Kuvalayananda.jpg/220px-Swami_Kuvalayananda.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sivananda Saraswati",
+    "wiki-link": "https://en.wikipedia.org/wiki/Sivananda_Saraswati",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Swami_Shivananda_Liebe.jpg/220px-Swami_Shivananda_Liebe.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tirumalai Krishnamacharya",
+    "wiki-link": "https://en.wikipedia.org/wiki/Tirumalai_Krishnamacharya",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Tirumalai_Krishnamacharya.png/220px-Tirumalai_Krishnamacharya.png"
+  },
+  {
+    "id": 11,
+    "name": "Paramahansa Yogananda",
+    "wiki-link": "https://en.wikipedia.org/wiki/Paramahansa_Yogananda",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Paramahansa_Yogananda_Standard_Pose.jpg/220px-Paramahansa_Yogananda_Standard_Pose.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Indra Devi",
+    "wiki-link": "https://en.wikipedia.org/wiki/Indra_Devi",
+    "imgURL": "https://aliaom.com/wp-content/uploads/2018/05/Indra-Devi.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Yogamaharishi Swami Gitananda",
+    "wiki-link": "https://en.wikipedia.org/wiki/Yogamaharishi_Swami_Gitananda",
+    "imgURL": "https://omstudio.co.uk/wp-content/uploads/2020/01/Swami-Gitananda-1.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pandit Shreeram Sharma Acharya",
+    "wiki-link": "https://en.wikipedia.org/wiki/Shriram_Sharma",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pt.ShriramSharma_Smiling.jpg/220px-Pt.ShriramSharma_Smiling.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Swami Sri Kripalvanand",
+    "wiki-link": "https://en.wikipedia.org/wiki/Kripalvananda",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Kripalvananda.jpg/220px-Kripalvananda.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Acharya Tulsi",
+    "wiki-link": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Acharya_tulsi.jpg/220px-Acharya_tulsi.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Swami Satchidananda Saraswati",
+    "wiki-link": "https://en.wikipedia.org/wiki/Swami_Satchidananda_Saraswati",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Swami_Satchidananda_in_Yogaville_2.jpg/220px-Swami_Satchidananda_in_Yogaville_2.jpg"
+  },
+  {
+    "id": 18,
+    "name": "K. Pattabhi Jois",
+    "wiki-link": "https://en.wikipedia.org/wiki/K._Pattabhi_Jois",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Guruji_white.jpg/220px-Guruji_white.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Dadi Janki",
+    "wiki-link": "https://en.wikipedia.org/wiki/Dadi_Janki",
+    "imgURL": "https://static.wixstatic.com/media/8cc233_c81d89c9940843dabe7befec4ebfd9c9~mv2.jpg/v1/fill/w_350,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8cc233_c81d89c9940843dabe7befec4ebfd9c9~mv2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Bellur Krishnamachar Sundararaja Iyengar",
+    "wiki-link": "https://en.wikipedia.org/wiki/B._K._S._Iyengar",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BKS_Iyengar.jpg/220px-BKS_Iyengar.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Maharishi Mahesh Yogi",
+    "wiki-link": "https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Maharishi_Huntsville_Jan_1978A.JPG/220px-Maharishi_Huntsville_Jan_1978A.JPG"
+  },
+  {
+    "id": 22,
+    "name": "Satyananda Saraswati",
+    "wiki-link": "https://en.wikipedia.org/wiki/Satyananda_Saraswati",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Satyananda_Saraswati.png/220px-Satyananda_Saraswati.png"
+  },
+  {
+    "id": 23,
+    "name": "Dhirendra Brahmachari",
+    "wiki-link": "https://en.wikipedia.org/wiki/Dhirendra_Brahmachari",
+    "imgURL": "https://blogs.navbharattimes.indiatimes.com/wp-content/uploads/2019/06/yoga-768x576.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Swami Rama",
+    "wiki-link": "https://en.wikipedia.org/wiki/Swami_Rama",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/SwamiRamaImg.jpg/220px-SwamiRamaImg.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Bhagwati Devi Sharma",
+    "wiki-link": "https://en.wikipedia.org/wiki/Bhagwati_Devi_Sharma",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vandniya_Mata_Bhagwati_Devi_Sharma_Ji.jpg/220px-Vandniya_Mata_Bhagwati_Devi_Sharma_Ji.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Amrit Desai",
+    "wiki-link": "https://en.wikipedia.org/wiki/Amrit_Desai",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Yogi-Amrit-Desai-Small.jpg/220px-Yogi-Amrit-Desai-Small.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Ishwar V. Basavarradi",
+    "wiki-link": "https://wikitia.com/wiki/Ishwar_V._Basavarradi",
+    "imgURL": "https://www.yogaiya.in/wp-content/uploads/2020/03/Dr-Ishwar-Basavaraddi.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Swami Veda Bharati",
+    "wiki-link": "https://www.himalayanyogatradition.com/swamiveda.html",
+    "imgURL": "https://www.himalayanyogatradition.com/images/pictures/Swami%20Veda%20Bharati%20WEB.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Mahamandaleshwar Swami Shankarananda",
+    "wiki-link": "https://en.wikipedia.org/wiki/Shankarananda_(Shiva_Yoga)",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mahamandaleshwar_Swami_Shankarananda_in_Ganeshpuri.jpg/220px-Mahamandaleshwar_Swami_Shankarananda_in_Ganeshpuri.jpg"
+  },
+  {
+    "id": 30,
+    "name": "H. R. Nagendra",
+    "wiki-link": "https://en.wikipedia.org/wiki/H._R._Nagendra",
+    "imgURL": "https://yoga.ayush.gov.in/public/assets/front/yoga-guru/hrnagendra.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Hansa Yogendra",
+    "wiki-link": "https://en.wikipedia.org/wiki/Hansa_Yogendra",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hansa_J_Yogendra.jpg/220px-Hansa_J_Yogendra.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Pranav Pandya",
+    "wiki-link": "https://en.wikipedia.org/wiki/Pranav_Pandya_(AWGP)",
+    "imgURL": "https://pbs.twimg.com/media/ChyD5UzUYAARG1o.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Bharat Bhushan",
+    "wiki-link": "https://en.wikipedia.org/wiki/Bharat_Bhushan_(yogi)",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sh.bharat_bhushan.jpg/220px-Sh.bharat_bhushan.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Ravi Shankar",
+    "wiki-link": "https://en.wikipedia.org/wiki/Ravi_Shankar_(spiritual_leader)",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/RaviShankar.jpg/250px-RaviShankar.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Kamlesh Patel",
+    "wiki-link": "https://en.wikipedia.org/wiki/Kamlesh_Patel_(Daaji)",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kamlesh_D_Patel_%28Daaji%29.jpg/220px-Kamlesh_D_Patel_%28Daaji%29.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Sadhguru",
+    "wiki-link": "https://en.wikipedia.org/wiki/Sadhguru",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sadhguru-Jaggi-Vasudev.jpg/220px-Sadhguru-Jaggi-Vasudev.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Niranjanananda Saraswati",
+    "wiki-link": "https://en.wikipedia.org/wiki/Niranjanananda_Saraswati",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Swami_Niranjanananda_Saraswati.jpg/220px-Swami_Niranjanananda_Saraswati.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Baba Ramdev",
+    "wiki-link": "https://en.wikipedia.org/wiki/Ramdev",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Swami_Ramdev_in_2016.jpg/220px-Swami_Ramdev_in_2016.jpg"
+  },
+  {
+    "id": 39,
+    "name": "BK Shivani",
+    "wiki-link": "https://en.wikipedia.org/wiki/BK_Shivani",
+    "imgURL": "https://static.wixstatic.com/media/8cc233_d8cadbc7b9e84d58827f53cb4f352317~mv2.jpg/v1/crop/x_4,y_56,w_721,h_829/fill/w_300,h_347,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/BK%20Shivani%20Sister.jpg"
+  }
+]
